@@ -4,7 +4,7 @@ The public forum for Lithium users, developers, and ecosystem partners.
 
 ## Discussions
 
-Use [organization discussions](https://github.com/orgs/Lithium-Lend/discussions)
+Use [Lithium Discussions](https://github.com/Lithium-Lend/community/discussions)
 for:
 
 - protocol and product proposals;
